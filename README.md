@@ -1,1 +1,1 @@
-# For my personal projects
+# For the Twitter Trending Evenet Detection Project
